@@ -26,7 +26,7 @@ releaseYear
 3 1992.0
 4 2004.0
 
-** Enter your genre or keyword of interest (e.g., 'Action', 'Drama', 'Comedy'): crime **
+* Enter your genre or keyword of interest (e.g., 'Action', 'Drama', 'Comedy'): crime 
 
 
 Here are your content recommendations based on your interest: Title: Kill Bill: Vol. 1 Type: movie
